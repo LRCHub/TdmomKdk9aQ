@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "In Bloom",
+  "base_artist": "ZEROBASEONE",
+  "createdAt": "2026-02-13T13:21:21.019452Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/01_In_Bloom_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Summer Days in Bloom",
+      "artist": "Maximilian Hecker",
+      "has_synced": true,
+      "path": "select/02_Summer_Days_in_Bloom_Maximilian_Hecker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In Bloom",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/03_In_Bloom_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In Bloom (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/04_In_Bloom_(Smart_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In Bloom (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/05_In_Bloom_(Smart_Studio_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Children In Bloom",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/06_Children_In_Bloom_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gone in Bloom and Bough",
+      "artist": "Caspian",
+      "has_synced": false,
+      "path": "select/07_Gone_in_Bloom_and_Bough_Caspian.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In Bloom",
+      "artist": "Tristan Prettyman",
+      "has_synced": true,
+      "path": "select/08_In_Bloom_Tristan_Prettyman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Girl In Bloom",
+      "artist": "Thin Lizzy",
+      "has_synced": true,
+      "path": "select/09_Little_Girl_In_Bloom_Thin_Lizzy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Little Girl In Bloom - BBC Radio 1 Rock On Session",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/10_Little_Girl_In_Bloom_-_BBC_Radio_1_Rock_On_Session_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Colors in Bloom",
+      "artist": "及川リン",
+      "has_synced": false,
+      "path": "select/11_Colors_in_Bloom_及川リン.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Bloom",
+      "artist": "Moses Sumney",
+      "has_synced": true,
+      "path": "select/12_In_Bloom_Moses_Sumney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In Bloom",
+      "artist": "ZEROBASEONE",
+      "has_synced": false,
+      "path": "select/pl_01_In_Bloom_ZEROBASEONE.txt"
+    }
+  ]
+}
